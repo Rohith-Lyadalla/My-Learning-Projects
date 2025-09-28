@@ -26,6 +26,6 @@ To launch a static website without using Amazon S3 via CloudFront, EC2 and ELB s
 
 **4. Amazon S3(Simple Storage Service) :** Amazon S3 which is a simple storage service which is provided by Amazon Web Service which is a Cloud service provider, S3 is a Scalable storage service which is object level storage that offers scalability, data availability, security, and performance. We can use Amazon S3 to store and retrieve any amount of data at any time, from anywhere.
  
-# Case 1: Using Amazon EC2 instances as the hosting infrastructure, Amazon CloudFront for content distribution, and an Elastic Load Balancer (ELB) for dividing up incoming traffic across several EC2 instances comprise the stages involved in launching a website without utilizing Amazon S3.
+**Case 1: Using Amazon EC2 instances as the hosting infrastructure, Amazon CloudFront for content distribution, and an Elastic Load Balancer (ELB) for dividing up incoming traffic across several EC2 instances comprise the stages involved in launching a website without utilizing Amazon S3.**
 <img width="769" height="468" alt="1" src="https://github.com/user-attachments/assets/9d147336-5a5b-4ae4-a67a-402340bdf798" />
 
